@@ -37,7 +37,7 @@ function App() {
     return (
         <>
             <div className="container-lg">
-                <h1 className="text-white pb-2">Promptly</h1>
+                <h1 className="text-white pb-2">Promptlyy</h1>
                 <div className="row pb-5">
                     <div className="col-9">
                         <FloatingLabel controlId="floatingTextarea2" label="add your prompt here">
