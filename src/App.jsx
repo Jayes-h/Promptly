@@ -69,7 +69,7 @@ function App() {
                             <span className="loader"></span>
                         </div>
                     ) : (
-                        <FloatingLabel controlId="floatingTextarea2" label="Your response Will Appear here">
+                        <FloatingLabel controlId="floatingTextarea2" label="your response will appear here">
                             <Form.Control
                                 value={answer}
                                 className="textFieldColor "
